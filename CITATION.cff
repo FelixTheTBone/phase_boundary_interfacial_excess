@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
+- family-names: "Theska"
+  given-names: "Felix"
+  orcid: "https://orcid.org/0000-0001-6241-205X"
+- family-names: "Primig"
+  given-names: "Sophie"
+  orcid: "https://orcid.org/0000-0002-7682-5899"
+title: "Interfacial excess across phase boundaries (preliminary)"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+doi: 10.5281/zenodo.7690401
+date-released: 2023-03-02
+url: "https://github.com/FelixTheTBone/phase_boundary_interfacial_excess"
