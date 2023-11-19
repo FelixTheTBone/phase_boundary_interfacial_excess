@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Theska"
@@ -7,8 +7,8 @@ authors:
 - family-names: "Primig"
   given-names: "Sophie"
   orcid: "https://orcid.org/0000-0002-7682-5899"
-title: "Interfacial excess across phase boundaries (preliminary)"
+title: "Interfacial excess of solutes across phase boundaries using atom probe microscopy"
 version: 2.0.4
-doi: 10.5281/zenodo.7690401
-date-released: 2023-03-02
-url: "https://github.com/FelixTheTBone/phase_boundary_interfacial_excess"
+doi: https://doi.org/10.5281/zenodo.7690401
+date-released: 2023-11-11
+url: "https://github.com/FelixTheTBone/phase_boundary_interfacial_excess/"
