@@ -9,6 +9,9 @@ Next, cumulative profiles (or ladder diagrams) are calculated from the summation
 
 ## Example data
 
+![Alt text](interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180.csv Concentration profile.svg=true "Title")
+![plot](interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180.csv Concentration profile.svg)
+
 
 ## Input & export
 
