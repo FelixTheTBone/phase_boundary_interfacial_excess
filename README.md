@@ -11,6 +11,9 @@ Next, cumulative profiles (or ladder diagrams) are calculated from the summation
 
 ![Example data of a proximity histogram](./interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180_concentration_profile.svg)
 
+![Example data of a concentration difference profile](./interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180_differential_profile.svg)
+
+
 ## Input & export
 
 
