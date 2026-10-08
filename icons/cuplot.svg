@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="100"
+   viewBox="0 0 52.916667 26.458333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="cuplot.svg"
+   inkscape:export-filename="cuplot.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.709669"
+     inkscape:cx="104.29676"
+     inkscape:cy="19.177994"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23" />
+    </marker>
+    <rect
+       x="93.875845"
+       y="29.423772"
+       width="89.84759"
+       height="29.598914"
+       id="rect1" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="93.875847"
+       y="29.423773"
+       width="89.847588"
+       height="29.598913"
+       id="rect1-4" />
+    <rect
+       x="93.875847"
+       y="29.423773"
+       width="89.847588"
+       height="29.598913"
+       id="rect1-5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.5;fill:none;fill-opacity:0.25;stroke:#b50000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 11.553538,18.604969 9.92698,-0.74202 3.822093,-1.836246 5.670481,-9.8698215 4.38601,-2.131357 8.77836,-0.9181227"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-start:url(#Triangle);marker-end:url(#Triangle);stroke-dasharray:none"
+       d="M 9.1406839,2.4465798 V 19.855149 H 46.549351"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-7.1660827,42.677767)"
+       id="text1"
+       style="font-weight:bold;font-size:18.6667px;font-family:'MesloLGS NF';-inkscape-font-specification:'MesloLGS NF Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="93.875"
+         y="45.939483"
+         id="tspan5"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'MesloLGS NF';fill:#000000;stroke:none"
+           id="tspan4">Σ (#)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.1271486,12.833917)"
+       id="text1-1"
+       style="font-weight:bold;font-size:18.6667px;font-family:'MesloLGS NF';-inkscape-font-specification:'MesloLGS NF Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-5);display:inline;fill:none;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round"><tspan
+         x="93.875"
+         y="45.939483"
+         id="tspan10"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'MesloLGS NF';fill:#000000;stroke:none"
+           id="tspan6">Σ</tspan><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan7">t</tspan><tspan
+           style="font-weight:normal;-inkscape-font-specification:'MesloLGS NF';fill:#000000;stroke:none"
+           id="tspan9"> (#)</tspan></tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.25;stroke:#dc0000;stroke-width:0.489075;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 11.553538,18.604969 9.92698,-0.74202 3.822093,-1.836246 5.670481,-9.8698215 4.38601,-2.131357 8.77836,-0.9181227"
+       id="path5" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.25;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Stop);marker-end:url(#marker8)"
+       d="m 27.79978,2.8568884 0.0886,15.9985936"
+       id="path7" />
+  </g>
+</svg>
