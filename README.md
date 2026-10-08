@@ -1,4 +1,4 @@
-# Interfacial excess caluclation across phase boundaries from atom probe data
+# Interfacial excess tool across from atom probe data
 ## Overview
 These methods allow the calculation of the interfacial excess across phase boundaries in proximity to grain boundaries. I have provided a few example datasets and exported data from the paper cited below. Please feel free to use these functions and reference them appropriately, thank you.  
 
