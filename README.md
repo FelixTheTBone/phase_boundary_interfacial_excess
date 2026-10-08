@@ -1,13 +1,15 @@
-# Interfacial excess tool across from atom probe data
+# Solute excess tool across from atom probe data
 ## Overview
-These methods allow the calculation of the interfacial excess across phase boundaries in proximity to grain boundaries. I have provided a few example datasets and exported data from the paper cited below. Please feel free to use these functions and reference them appropriately, thank you.  
+This tool supports solute excess quantification across interfaces and around dislocations using APT data. 1D concentration profiles or proximity histograms may be used as input. I have provided an example dataset in addition to the old data from the interfacial excess paper. Please use these functions and reference them appropriately, thank you. 
 
-## Rewrite in 202~~5~~6
-Rewriting the script in ~~2025~~ 2026 to update the following functionalities: 
-- Manual intervention in defining dynamic structures, e.g., file names, interface areas, defining sections of interest in the concentration profile.
-- More robust identification of the interface location by the omission of unreliable values, e.g., of elements exhibiting no concentration difference, or noisy low-concentration elements.
-~~- Replaced semi-logarithmic plots with more readily interpretable linear plots & outputting all information in the plots~~
-- Graphical User Interface to be ready-for-use
+## Updates
+I have rewritten most functions of the original script to help with ease of use, improve adaptation to different workflows, and fixed some errors.
+Biggest update: The tool now has a GUI based on Toga (https://toga.beeware.org/en/stable/), which should agnostic to using a Windows PC, Linux, or Mac.
+Improvements: Background calculations now mostly rely on Pandas data frames (https://pandas.pydata.org/) so calculations are a bit 'cleaner'. 
+Fixes: The old script applied smoothing to concentration, then again to concentration difference. Not a big problem, but not what it was intended to do.
+Regression: I am still working on incorporating the error estimations, please stay up to date for that! 
+
+(Note to myself, updating readme from here and below...)
 
 ## Calculations
 The first step is obtaining high-quality proximity histograms (proxigrams) from your atom probe reconstruction. I found a step size of 0.05 nm and width +- 15 nm works very well. However, large and more diffuse interfaces may require adjustments, but you will always need to keep the step size reasonably fine.
