@@ -4,10 +4,10 @@ This tool supports solute excess quantification across interfaces and around dis
 
 ## Updates
 I have rewritten most functions of the original script to help with ease of use, improve adaptation to different workflows, and fixed some errors.
-Biggest update: The tool now has a GUI based on Toga (https://toga.beeware.org/en/stable/), which should agnostic to using a Windows PC, Linux, or Mac.
-Improvements: Background calculations now mostly rely on Pandas data frames (https://pandas.pydata.org/) so calculations are a bit 'cleaner'. 
-Fixes: The old script applied smoothing to concentration, then again to concentration difference. Not a big problem, but not what it was intended to do.
-Regression: I am still working on incorporating the error estimations, please stay up to date for that! 
+- Biggest update: The tool now has a GUI based on Toga (https://toga.beeware.org/en/stable/), which should agnostic to using a Windows PC, Linux, or Mac.
+- Improvements: Background calculations now mostly rely on Pandas data frames (https://pandas.pydata.org/) so calculations are a bit 'cleaner'. 
+- Fixes: The old script applied smoothing to concentration, then again to concentration difference. Not a big problem, but not what it was intended to do.
+- Regression: I am still working on incorporating the error estimations, please stay up to date for that! 
 
 (Note to myself, updating readme from here and below...)
 
