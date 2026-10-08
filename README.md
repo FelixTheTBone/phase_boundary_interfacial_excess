@@ -17,14 +17,19 @@ From the proxigrams, the script automatically calculates concentration differenc
 Next, cumulative profiles (or ladder diagrams) are calculated from the summation of solute atom counts over the summation of all atom counts. The interface location spatial coordinate is placed to its corresponding coordinate in the cumulative profile. The solute excess is determined via extrapolation towards this interface location. The detailed equations and error estimations are accessible in the paper below.
 
 ## Example data
-Here is a proximity histogram across a M<sub>6</sub>C / M<sub>6</sub>C interface. The enrichment and depletion of different elements are obvious.
-![Example data of a proximity histogram](./interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180_concentration_profile.svg)
+Here is an example of setting up the tool around a Cu and Mg -rich precipitate in an Al-matrix. I have set the first interpolation interval (red), second interpolation interval (yellow), and interface search interval (green).
+The previous version of this tool did that automatically, but there were cases where it would not always work and adapting it to be used around dislocations made manual input necessary.
+![Example data of setting interpolation and search intervals](./temp/setup.png)
 
-This is an example of a concentration difference profile, corresponding to the proximity histogram above. The M<sub>6</sub>C / M<sub>6</sub>C interface exhibits the strongest variation for all elements. Black dashed lines mark the interface location identified from each element. Their consistent location allows to calculate the average from all elements.
-![Example data of a concentration difference profile](./interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180_differential_profile.svg)
+Here is an example 1D concentration profile across a precipitate in an Al-alloy. Concentration is shown as log on the y-axis and the x-axis shows the distance as lin.
+In the precipitate, the Al-matrix is displaced and Cu and Mg are enriched. In the matrix is ~ 1 at.% Mg and the Cu concentration is close to the detection limit.
+![Example data of a 1D concentration profile](./export/R6001_182023%20-%201D%20Concentration%20Profile%20-%20Z-%20axis.png)
 
-Here is an exemplary cumulative profile of the above proximity histogram and concentration difference profiles. The solute excess is calculated via extra polation to the interface location. Error estimations are indicated in the upper and lower range providing the standard deviation of the solute excess. The interface location is required to then calculate the interfacial excess.
-![Example data of a cumulative profile](./interfacial_excess/export/Proxi-M6C_M6C-2091-R18_61180_B_cumulative.svg)
+Here is an example of the corresponding concentration difference profile. Concentration difference is shown on the y-axis and the x-axis shows the distance.
+I set the interface search interval around the precipitate center so that both positive and negative changes in concentration are captured and the precipitate is treated as 'interface'.
+The displacement in Al is shown as a negative drop followed by a positive increment, Cu and Mg show the inverted trends because they are enriched. 
+![Example data of a concentration difference profile](./export/R6001_182023%20-%201D%20Concentration%20Profile%20-%20Z-%20axis%20Diff.png)
+
 
 Finally, the interfacial excess across different interfaces can be summarised in this 'interface plot'. The line width corresponds to the interfacial excess. Colored lines indicate enrichment, black lines indicate depletion. 
 ![Example data of an interface plot](./interface_plots/export/interface_plot_Co.svg)
