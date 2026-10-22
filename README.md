@@ -7,7 +7,7 @@ I have rewritten most functions of the original script to help with ease of use,
 - Biggest update: The tool now has a GUI based on Toga (https://toga.beeware.org/en/stable/), which should agnostic to using a Windows PC, Linux, or Mac.
 - Improvements: Background calculations now mostly rely on Pandas data frames (https://pandas.pydata.org/) so calculations are a bit 'cleaner'. 
 - Fixes: The old script applied smoothing to concentration, then again to concentration difference. Not a big problem, but not what it was intended to do.
-- Regression: I am still working on incorporating the error estimations, please stay up to date for that! 
+- Regression: I am still working on incorporating error estimations as expanded on by Tegg & Cairney (https://doi.org/10.1111/jmi.13392)
 
 (Note to myself, updating readme from here and below...)
 
